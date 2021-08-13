@@ -20,7 +20,8 @@ typedef long long ll;
 typedef long double ld;
 
 void solve(){
-
+    ll n;
+    cin>>n;
 }
 
 signed main(){
