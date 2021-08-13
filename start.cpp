@@ -22,6 +22,7 @@ typedef long double ld;
 void solve(){
     ll n;
     cin>>n;
+    cout<<"OK\n";
 }
 
 signed main(){
